@@ -1,0 +1,408 @@
+[14-Oct-2023 11:18:27 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[14-Oct-2023 11:18:27 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[14-Oct-2023 11:18:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[14-Oct-2023 12:21:23 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[14-Oct-2023 12:21:23 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[14-Oct-2023 12:21:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php on line 65
+[14-Oct-2023 12:51:58 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[14-Oct-2023 12:51:58 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[14-Oct-2023 12:51:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php on line 64
+[16-Oct-2023 06:34:18 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[16-Oct-2023 06:34:18 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[16-Oct-2023 06:34:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[16-Oct-2023 10:27:02 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[16-Oct-2023 10:27:02 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[16-Oct-2023 10:27:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[16-Oct-2023 11:01:11 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[16-Oct-2023 11:01:11 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[16-Oct-2023 11:01:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[17-Oct-2023 05:23:00 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[17-Oct-2023 05:23:00 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[17-Oct-2023 05:23:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php on line 59
+[17-Oct-2023 07:34:44 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[17-Oct-2023 07:34:44 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[17-Oct-2023 07:34:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php on line 64
+[17-Oct-2023 08:07:43 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[17-Oct-2023 08:07:43 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[17-Oct-2023 08:07:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php on line 65
+[17-Oct-2023 11:51:15 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[17-Oct-2023 11:51:15 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[17-Oct-2023 11:51:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php on line 65
+[17-Oct-2023 12:07:57 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[17-Oct-2023 12:07:57 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[17-Oct-2023 12:07:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[17-Oct-2023 15:38:47 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[17-Oct-2023 15:38:47 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[17-Oct-2023 15:38:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[18-Oct-2023 09:52:21 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[18-Oct-2023 09:52:21 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[18-Oct-2023 09:52:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php on line 64
+[18-Oct-2023 09:59:59 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[18-Oct-2023 09:59:59 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[18-Oct-2023 09:59:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[18-Oct-2023 10:57:24 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[18-Oct-2023 10:57:24 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[18-Oct-2023 10:57:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php on line 59
+[19-Oct-2023 08:11:26 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[19-Oct-2023 08:11:26 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[19-Oct-2023 08:11:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalStudentsForTeacher() in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php on line 63
+[19-Oct-2023 11:36:11 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[19-Oct-2023 11:36:11 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[19-Oct-2023 11:36:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalStudentsForTeacher() in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php on line 63
+[20-Oct-2023 10:37:28 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[20-Oct-2023 10:37:28 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[20-Oct-2023 10:37:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php on line 64
+[20-Oct-2023 12:00:52 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[20-Oct-2023 12:00:52 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[20-Oct-2023 12:00:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php on line 65
+[21-Oct-2023 07:13:27 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[21-Oct-2023 07:13:27 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[21-Oct-2023 07:13:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalStudentsForTeacher() in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php on line 63
+[21-Oct-2023 08:00:04 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[21-Oct-2023 08:00:04 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[21-Oct-2023 08:00:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php on line 64
+[21-Oct-2023 08:58:22 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[21-Oct-2023 08:58:22 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[21-Oct-2023 08:58:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[23-Oct-2023 08:39:44 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[23-Oct-2023 08:39:44 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[23-Oct-2023 08:39:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php on line 59
+[23-Oct-2023 11:39:42 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[23-Oct-2023 11:39:42 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[23-Oct-2023 11:39:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalStudentsForTeacher() in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php on line 63
+[23-Oct-2023 12:07:40 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[23-Oct-2023 12:07:40 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[23-Oct-2023 12:07:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[24-Oct-2023 06:39:16 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[24-Oct-2023 06:39:16 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[24-Oct-2023 06:39:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php on line 64
+[24-Oct-2023 12:22:37 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[24-Oct-2023 12:22:37 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[24-Oct-2023 12:22:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[25-Oct-2023 07:03:39 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[25-Oct-2023 07:03:39 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[25-Oct-2023 07:03:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[25-Oct-2023 07:04:28 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[25-Oct-2023 07:04:28 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[25-Oct-2023 07:04:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[25-Oct-2023 08:13:01 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[25-Oct-2023 08:13:01 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[25-Oct-2023 08:13:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[25-Oct-2023 10:47:37 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[25-Oct-2023 10:47:37 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[25-Oct-2023 10:47:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalStudentsForTeacher() in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php on line 63
+[25-Oct-2023 11:49:31 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[25-Oct-2023 11:49:31 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[25-Oct-2023 11:49:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[26-Oct-2023 04:36:40 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[26-Oct-2023 04:36:40 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[26-Oct-2023 04:36:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[26-Oct-2023 06:15:01 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[26-Oct-2023 06:15:01 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[26-Oct-2023 06:15:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[26-Oct-2023 07:05:24 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[26-Oct-2023 07:05:24 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[26-Oct-2023 07:05:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php on line 64
+[27-Oct-2023 07:23:50 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[27-Oct-2023 07:23:50 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[27-Oct-2023 07:23:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[27-Oct-2023 11:00:33 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[27-Oct-2023 11:00:33 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[27-Oct-2023 11:00:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php on line 59
+[27-Oct-2023 11:01:44 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[27-Oct-2023 11:01:44 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[27-Oct-2023 11:01:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalStudentsForTeacher() in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php on line 63
+[27-Oct-2023 11:31:14 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[27-Oct-2023 11:31:14 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[27-Oct-2023 11:31:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[27-Oct-2023 11:46:20 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[27-Oct-2023 11:46:20 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[27-Oct-2023 11:46:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[27-Oct-2023 12:11:30 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[27-Oct-2023 12:11:30 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[27-Oct-2023 12:11:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[28-Oct-2023 04:40:30 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[28-Oct-2023 04:40:30 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[28-Oct-2023 04:40:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[28-Oct-2023 07:14:53 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[28-Oct-2023 07:14:53 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[28-Oct-2023 07:14:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/attendance.php on line 64
+[28-Oct-2023 08:06:19 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[28-Oct-2023 08:06:19 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[28-Oct-2023 08:06:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[28-Oct-2023 08:35:55 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[28-Oct-2023 08:35:55 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[28-Oct-2023 08:35:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[28-Oct-2023 11:58:11 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[28-Oct-2023 11:58:11 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[28-Oct-2023 11:58:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[28-Oct-2023 12:02:17 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[28-Oct-2023 12:02:17 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[28-Oct-2023 12:02:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php on line 59
+[30-Oct-2023 07:15:08 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[30-Oct-2023 07:15:08 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[30-Oct-2023 07:15:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[30-Oct-2023 08:15:54 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[30-Oct-2023 08:15:54 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[30-Oct-2023 08:15:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[30-Oct-2023 11:46:08 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[30-Oct-2023 11:46:08 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[30-Oct-2023 11:46:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[30-Oct-2023 11:46:16 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[30-Oct-2023 11:46:16 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[30-Oct-2023 11:46:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getTotalStudentsForTeacher() in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/dashboard.php on line 63
+[31-Oct-2023 07:20:44 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[31-Oct-2023 07:20:44 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[31-Oct-2023 07:20:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[31-Oct-2023 08:20:47 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[31-Oct-2023 08:20:47 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[31-Oct-2023 08:20:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[31-Oct-2023 09:06:57 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[31-Oct-2023 09:06:57 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[31-Oct-2023 09:06:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[01-Nov-2023 07:58:46 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[01-Nov-2023 07:58:46 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[01-Nov-2023 07:58:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_attandance.php on line 88
+[01-Nov-2023 08:35:15 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[01-Nov-2023 08:35:15 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[01-Nov-2023 08:35:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[01-Nov-2023 10:25:53 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[01-Nov-2023 10:25:53 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[01-Nov-2023 10:25:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/batches.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/batches.php on line 85
+[01-Nov-2023 11:42:41 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[01-Nov-2023 11:42:41 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[01-Nov-2023 11:42:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[01-Nov-2023 11:44:17 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[01-Nov-2023 11:44:17 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[01-Nov-2023 11:44:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[01-Nov-2023 12:05:38 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[01-Nov-2023 12:05:38 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[01-Nov-2023 12:05:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php on line 59
+[02-Nov-2023 07:15:26 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[02-Nov-2023 07:15:26 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[02-Nov-2023 07:15:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[02-Nov-2023 08:54:24 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[02-Nov-2023 08:54:24 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[02-Nov-2023 08:54:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[02-Nov-2023 09:09:02 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[02-Nov-2023 09:09:02 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[02-Nov-2023 09:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/select_batch.php on line 80
+[02-Nov-2023 10:07:28 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[02-Nov-2023 10:07:28 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[02-Nov-2023 10:07:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php on line 65
+[02-Nov-2023 11:08:22 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[02-Nov-2023 11:08:22 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[02-Nov-2023 11:08:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/add_assignment.php on line 65
+[02-Nov-2023 11:08:26 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[02-Nov-2023 11:08:26 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[02-Nov-2023 11:08:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/mark_assigment.php on line 59
+[03-Nov-2023 08:02:48 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[03-Nov-2023 08:02:48 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[03-Nov-2023 08:02:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64
+[03-Nov-2023 10:57:46 America/New_York] PHP Warning:  Undefined variable $teacher_name_get_session in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 18
+[03-Nov-2023 10:57:46 America/New_York] PHP Warning:  Undefined variable $teacher_image in /home/preww/pixxel.prepwings.com/teacher_dashboard/include/navbar.php on line 22
+[03-Nov-2023 10:57:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_table_data2() in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/preww/pixxel.prepwings.com/teacher_dashboard/assigment.php on line 64

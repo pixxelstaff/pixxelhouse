@@ -1,0 +1,526 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: url(../../images/form_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.iph_form_head {
+    color: #208ADD;
+    font-size: 30px;
+    margin: 5px 0px;
+    font-weight: 600;
+}
+
+.iph_inp_div {
+    width: 100%;
+    display: flex;
+    padding: 5px;
+    justify-content: space-between
+}
+
+/* .j-c-u{
+    justify-content: unset !important;
+
+} */
+/* input[type='text'],select,input[type='date']{
+   
+} */
+
+
+.iph_inp_field {
+    width: 100%;
+    padding: 12px;
+    background: #EBEBEB !important;
+    border: 2px solid #EBEBEB;
+    outline: 0;
+    color: #545454;
+    font-size: 16px !important;
+    border-radius: 4px;
+}
+
+.iph_half_inp {
+    width: 49% !important;
+    display: inline-block;
+    text-align: left;
+}
+
+.iph_semi_half_inp {
+    width: 32% !important;
+}
+
+.error-msg {
+    display: none;
+    margin: 0;
+    color: red !important;
+    padding: 5px;
+    font-size: 12px;
+
+}
+
+#file-error {
+    font-size: 16px;
+}
+
+.iph_imp_p {
+    width: 100%;
+    display: inline-block;
+    font-size: 14px;
+    margin: 0;
+}
+
+.iph_imp_p_ol {
+    margin: 5px 0px 0px 0px !important;
+    padding: 0px 0px 0px 20px !important;
+    display: inline-block;
+    width: 100%;
+}
+
+.iph_imp_p_ol li {
+    font-size: 14px;
+    margin: 5px 0px;
+    font-weight: 400;
+}
+
+
+
+.chk_btn {
+    scale: 1.6;
+    display: inline-block;
+    width: 6%;
+}
+
+.iph_half_inp .chk_btn {
+    width: 10%;
+}
+
+.chk_heading {
+    display: inline-block;
+    font-size: 22px;
+    margin: 0px 0px 0px 10px;
+}
+
+.iph_spacer {
+    width: 100%;
+    height: 2px;
+    display: block;
+    background: #545454;
+}
+
+.iph_blue {
+    color: #208ADD;
+}
+
+.iph_form_sub {
+    all: unset;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    background: #208ADD;
+    color: #fff;
+    padding: 12px;
+    border-radius: 4px;
+    border: 2px solid #fff;
+    transition: 0.5s ease-in-out all;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+
+}
+
+.iph_form_sub:hover {
+    background: #fff;
+    border-color: #208ADD;
+    color: #208ADD;
+}
+
+/*second col starts here*/
+
+.form_row1_col2_h3,
+.form_row1_col2_h5 {
+    font-weight: 600;
+    font-size: 30px;
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.form_row1_col2_h5 {
+    font-size: 24px;
+    margin: 10px 0px 0px 0px;
+}
+
+.iph_logo_div img {
+    width: 80%;
+    display: inline-block;
+    margin: 15px 0px;
+}
+
+.upload_img_div {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    border: 8px solid #010101;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+}
+
+.iph_inp_label {
+    font-size: 20px;
+    font-weight: 600;
+    display: inline-block;
+    color: #208ADD;
+    cursor: pointer;
+}
+
+.iph_uploaded_img {
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: +2;
+    object-fit: cover;
+    background: #fff;
+}
+
+.upload_img_close_btn,
+.form_links {
+    color: #000;
+    background: #EBEBEB;
+    padding: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    display: inline-block;
+    transition: 0.5s ease-in-out all;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+.upload_img_close_btn:hover,
+.form_links:hover {
+    color: #fff;
+    background: #208ADD;
+}
+
+.p_title_div {
+    position: relative;
+}
+
+.bck_btn {
+    font-size: 24px;
+    color: #fff;
+    background: #208ADD;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+}
+
+/* teacher rating page css*/
+
+.rt_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.rev_head {
+    font-size: 18px;
+    color: #545454;
+    font-weight: 500;
+    display: inline-block;
+    margin: 0;
+}
+
+.rating {
+    display: flex;
+    gap: 10px;
+    padding: 0px 10px;
+}
+
+.rating-star {
+    color: transparent;
+    stroke: #545454;
+    stroke-width: 24px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+/* prevent submit*/
+
+.prevent_submit {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+/*error popups*/
+
+.error_popup,
+.success_popup {
+    width: 100%;
+    height: 100vh;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: +2;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: 0.5s ease-in-out all;
+}
+
+.error_div,
+.success_div {
+    width: 360px;
+    padding: 15px 10px;
+    display: inline-block;
+    text-align: center;
+    background: #fff;
+    border-radius: 5px;
+    position: relative;
+    transform: translateX(200px);
+    opacity: 0;
+    transition: 0.5s ease-in-out all;
+
+}
+
+.e_img_div,
+.s_img_div {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin: 0px 20px;
+}
+
+.s_img_div img {
+    width: 60%;
+    display: inline-block;
+}
+
+.e_img_div img {
+    width: 40%;
+    display: inline-block;
+}
+
+.error_h,
+.success_h {
+    font-size: 16px;
+    color: #b51515;
+    text-align: center;
+    margin: 5px 0px;
+    font-weight: 600;
+    /* text-transform: uppercase; */
+}
+
+.error_p,
+.success_p {
+    font-size: 14px;
+    color: #b51515;
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+    letter-spacing: 1px;
+}
+
+.success_h {
+    /* margin-top:-26px; */
+    color: #208ADD;
+}
+
+.success_p {
+    color: #000000;
+}
+
+.suc_close_popup,
+.err_close_popup {
+    color: #000000;
+    font-size: 24px;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    transition: 0.5s ease-in-out all;
+}
+
+.suc_close_popup:hover,
+.err_close_popup:hover {
+    color: #fe0707;
+}
+
+.rev_div {
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+
+.country_code {
+    width: 20%;
+    padding: 12px;
+    background: #EBEBEB !important;
+    border: 2px solid #EBEBEB;
+    outline: 0;
+    color: #545454;
+    font-size: 16px;
+    border-radius: 4px;
+   
+}
+
+#s-p-num,
+#s-e-num,
+#f-contact {
+    width: 78%;
+}
+
+.label_div {
+    position: relative;
+}
+
+.dob {
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 600;
+    position: absolute;
+    display: inline-block;
+    padding: 5px;
+    background: #208ADD;
+    border-radius: 5px;
+    top: 50%;
+    right: 20%;
+    transform: translate(20%, -50%);
+}
+
+
+/*responsive code */
+
+@media screen and (max-width:768px) {
+    #iph_from_row {
+        flex-direction: column-reverse;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .chk_heading {
+        font-size: 16px;
+    }
+
+    .country_code {
+       
+        text-align: center;
+        font-size: 12px !important;
+    }
+      
+        .dob {
+            font-size: 10px;
+            padding: 4px;
+            right: 25%;
+            transform: translate(25%, -50%);
+        }
+}
+
+@media screen and (max-width:360px) {
+    .form_row1_col2_h3 {
+        font-size: 18px;
+        margin: 6px 0px 6px 0px;
+    }
+
+    .upload_img_close_btn,
+    .form_links {
+
+        padding: 7px;
+
+        font-size: 14px;
+
+    }
+
+    .iph_inp_div {
+
+        padding: 0px;
+
+        flex-direction: column;
+
+    }
+
+    .iph_half_inp,
+    .iph_semi_half_inp {
+
+        width: 100% !important;
+
+        margin: 10px 0px;
+
+    }
+
+    .iph_form_head {
+
+        font-size: 18px;
+
+    }
+
+    .iph_imp_p_ol li {
+        font-size: 12px;
+    }
+
+    .chk_btn {
+        scale: 1.0;
+    }
+
+    .chk_heading {
+        font-size: 14px;
+    }
+
+    .rating-star {
+        stroke-width: 16px;
+        font-size: 16px;
+    }
+
+    .rev_head {
+        font-size: 14px;
+        margin: 10px 0px;
+    }
+
+    .rev_div {
+        padding: 6px 0px;
+    }
+      .country_code {
+       
+        width:27%;
+        
+    }
+    #s-p-num, #s-e-num, #f-contact {
+    width: 70% !important;
+}
+.upload_img_div {
+  width: 200px;
+  height: 200px;
+}
+      
+}

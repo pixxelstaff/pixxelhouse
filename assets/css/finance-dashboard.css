@@ -1,0 +1,915 @@
+.finance-card {
+    border-radius: 16px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 6px;
+    background: linear-gradient(45deg, #62cff4, #2c67f2);
+}
+
+#f-card2 {
+    background: linear-gradient(45deg, #ef629a, #eecda1);
+}
+
+#f-card3 {
+    background: linear-gradient(45deg, #000000, #444444);
+}
+
+.finance-card h6 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 12px 0px;
+    font-family: poppins;
+    color: #fff;
+}
+
+.finance-card foreignObject text {
+    font-family: poppins !important;
+    font-weight: 500 !important;
+    fill: #fff !important;
+}
+
+.apexcharts-title-text {
+    font-family: poppins !important;
+    font-weight: 500 !important;
+    fill: #fff !important;
+}
+
+.main-graph {
+    padding: 10px 0px;
+}
+
+.tab-head {
+    color: #fff;
+    background: #ef629a;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 60px;
+    font-size: 14px;
+    font-family: poppins;
+    margin: 10px 0px;
+}
+
+.tab-p {
+    width: 100%;
+    margin: 20px 0px;
+    overflow: auto;
+    scrollbar-width: thin;
+}
+
+.tab-p::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.tab-p::-webkit-scrollbar-thumb {
+    background-color: #ff0000 !important;
+}
+
+.transitions-data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px;
+
+}
+
+.transitions-data-table thead {
+    color: #fff;
+    background: #1176bc;
+    padding: 12px 0px;
+    display: table-header-group;
+    /* Use table-header-group instead of block */
+    width: 100%;
+}
+
+.transitions-data-table th,
+.transitions-data-table td {
+    font-size: 14px;
+    font-family: poppins;
+    padding: 16px 8px;
+    white-space: no-wrap;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.act-btn,
+.view-btn,
+.ratio-data {
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 60px;
+    display: inline-block;
+}
+
+.paid {
+    background: #3aff3a;
+}
+
+.unpaid {
+    background: #ee0606;
+}
+
+.view-btn {
+    background: #1176bc;
+}
+
+/*secong*/
+
+.cir-div h2 {
+    font-size: 16px;
+    font-family: poppins;
+    margin: 12px 0px;
+}
+
+.ratio-data {
+    font-size: 12px;
+}
+
+.ratio-data:nth-child(1) {
+    background: #1176bc;
+}
+
+/*circular dishboard*/
+
+.label-div h6 {
+    font-size: 14px;
+    color: #000;
+    margin: 0px;
+    text-transform: capitalize;
+}
+
+.label-div p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: #fff;
+    margin: 0px;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    border-radius: 50%;
+}
+
+/*input elements  style*/
+.sel-std {
+    display: inline-block;
+    font-size: 14px;
+    padding: 12px 24px;
+    color: #fff;
+    background: #1176bc;
+    position: relative;
+    margin: 20px 0px 40px 0px;
+}
+
+.sel-std::before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 16px solid transparent;
+    border-right: 16px solid transparent;
+    border-top: 16px solid #1176bc;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    bottom: -16px;
+}
+
+.form-element-div label {
+    font-size: 14px;
+    color: #000;
+    text-transform: capitalize;
+
+}
+
+.form-element-div input,
+.form-element-div select {
+    width: 100%;
+    display: inline-block;
+    padding: 12px;
+    font-size: 14px;
+    border-radius: 4px;
+    background: #fff;
+}
+
+/*institute card design*/
+
+.student-ins-card {
+    background: url('../../assets/images/form_bg.jpg') left no-repeat;
+    background-size: cover;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    padding: 4px 4px 16px 4px;
+}
+
+.student-ins-card::before {
+    content: "";
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    border-radius: 50%;
+    background: linear-gradient(45deg, #20A4F3, #182B3A);
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -120%);
+    transition: 0.5s ease-in-out all;
+}
+
+.student-ins-card:hover.student-ins-card::before {
+    transform: translate(-50%, -75%);
+}
+
+.student-img-div {
+    width: 140px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    position: relative;
+    margin: 60px auto 0px auto;
+    border-radius: 50%;
+}
+
+.student-img-div::before {
+    content: "";
+    background: linear-gradient(45deg, #62cff4, #2c67f2);
+    width: 90%;
+    height: 90%;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.student-img-div img {
+    display: inline-block;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    position: relative;
+    background: #fff;
+    object-fit: cover;
+}
+
+.stdName {
+    font-size: 16px;
+    color: #000000;
+    margin: 12px 0px 20px 0px;
+}
+
+.std-data ul {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 0px auto;
+    align-items: center;
+}
+
+.std-data ul li {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    font-size: 14px;
+    color: #000;
+}
+
+.std-data ul li span {
+    display: inline-block;
+}
+
+.label-span {
+    width: 30%;
+}
+
+.label-span i {
+    all: unset;
+    background: #1176bc;
+    padding: 4px 6px;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 60px;
+}
+
+.data-span {
+    width: 70%;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/*pagination css*/
+
+/* #p_prev_btn, #p_next_btn {
+    color: #000 ;
+} */
+
+.pagination-div a {
+    background: 0;
+    border: 0;
+    outline: 0;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    border: 1px solid #1176bc;
+    border-radius: 4px;
+    font-size: 12px;
+    transition: 0.5s ease-in-out all;
+}
+
+.pagination-div a:hover {
+    color: #fff;
+    background: #1176bc;
+}
+
+.pagination-div a:hover #p_prev_btn,
+.pagination-div a:hover #p_next_btn {
+    color: #fff;
+}
+
+.active-page {
+    color: #fff !important;
+    background: #1176bc !important;
+}
+
+/*students-report.php*/
+
+.institute-logo-div {
+    width: 20%;
+    display: block;
+    margin: 10px auto;
+}
+
+.institute-logo-div img {
+    width: 100%;
+    display: inline-block;
+}
+
+.profile-img {
+    width: 380px;
+    height: 380px;
+    display: inline-block;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.col-label {
+    padding: 12px 18px;
+    font-size: 16px;
+    color: #fff;
+    background: #1176bc;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 30px 0px;
+    position: relative;
+}
+
+.cir-parent {
+    text-align: center;
+}
+
+.cir-parent .circular-progress {
+    width: 160px;
+    height: 160px;
+}
+
+.cir-parent .circular-progress::before {
+    width: 130px;
+    height: 130px;
+}
+
+/*new css for student report*/
+
+.student-name {
+    font-size: 42px;
+    color: #000;
+    font-weight: bold;
+    border-bottom: 4px solid #1176bc;
+    display: inline-block;
+}
+
+.student-data {
+    gap: 20px;
+}
+
+.student-data li {
+    display: flex;
+    gap: 22px;
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.student-data li span {
+    display: inline-block;
+    width: 20%;
+    background: #1176bc;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.student-data li span i {
+    font-weight: normal !important;
+    font-family: poppins;
+    padding: 6px 8px;
+    font-size: 14px !important;
+    display: inline-block;
+    border-radius: 4px !important;
+
+}
+
+.custom-table {
+    white-space: nowrap;
+}
+
+.custom-table thead {
+    border-collapse: collapse;
+}
+
+.custom-table thead,
+.custom-table tbody {
+    width: 100%;
+}
+
+.custom-table thead {
+    /* color: #3aff3a; */
+    background: #000;
+}
+
+.custom-table th,
+.custom-table td {
+    padding: 16px;
+    color: #000;
+    font-size: 14px;
+    font-family: poppins;
+    font-weight: normal;
+}
+
+.f-16 {
+    font-size: 16px !important;
+}
+
+.custom-table th {
+    color: #fff;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+}
+
+.custom-table td {
+    border: 1px solid #eee;
+}
+
+.custom-table th:nth-child(1) {
+    border-left: 0px;
+}
+
+.custom-table th:last-child {
+    border-right: 0px;
+}
+
+.cir-lab {
+    font-size: 14px;
+    background: #1176bc;
+    padding: 10px 16px;
+    border-radius: 60px;
+    display: inline-block;
+    color: #fff;
+    font-weight: normal;
+    margin: 20px 0px;
+}
+
+/*custom card*/
+
+.custom-card {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    color: #fcfcfc;
+    padding: 32px;
+    border-radius: 30%;
+    position: relative;
+    z-index: 1;
+    box-shadow: 6px 28px 46px -6px #000;
+}
+
+.custom-card::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+    background: linear-gradient(135deg, #1176bc, #000000 40%);
+    z-index: -2;
+}
+
+.custom-card::after {
+    content: '';
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    width: calc(100% - 1px);
+    height: calc(100% - 1px);
+    border-radius: 1rem;
+    background: linear-gradient(90deg, #171721, #060609);
+    transition: box-shadow 0.3s ease;
+    z-index: -1;
+}
+
+.custom-card .info {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.custom-card .info .report-name span {
+    color: #fff;
+    background: #1176bc;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 8px;
+    width: auto;
+    margin: 10px 0px;
+}
+
+.custom-card .info .title {
+    max-width: 260px;
+    line-height: 28px;
+    font-size: 17px;
+    font-weight: 500;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.custom-card .info .btn {
+    margin-top: 14px;
+    color: #fff;
+    background: transparent;
+    border: unset;
+    border-radius: 16px;
+    overflow: hidden;
+    padding: 12px 24px;
+    font-weight: 600;
+    font-size: 16px;
+    margin-right: auto;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    transition: background 0.3s ease;
+}
+
+.custom-card .info .btn::before,
+.custom-card .info .btn::after {
+    content: '';
+    position: absolute;
+}
+
+.custom-card .info .btn::before {
+    left: 50%;
+    top: 50%;
+    background: linear-gradient(90deg, #1176bc 0%, transparent 45%, transparent 55%, #1176bc 100%);
+    transform: translate(-50%, -50%) rotate(55deg);
+    width: 100%;
+    height: 240%;
+    border-radius: 16px;
+    z-index: -2;
+    opacity: 0.4;
+    transition: all 0.3s ease;
+    animation: 5s move infinite linear paused;
+}
+
+.custom-card .info .btn::after {
+    left: 2px;
+    top: 2px;
+    background: #171721;
+    width: calc(100% - 4px);
+    height: calc(100% - 4px);
+    border-radius: 16px;
+    z-index: -1;
+}
+
+.custom-card .info .btn:hover::before {
+    animation-play-state: running;
+    opacity: 1;
+}
+
+.custom-card .image {
+    min-width: 86px;
+    min-height: 86px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    box-shadow: 8px 12px 16px #000;
+    position: relative;
+    z-index: 0;
+}
+
+.custom-card .image::before {
+    content: '';
+    position: absolute;
+    background: linear-gradient(110deg, #1176bc 10%, #000000);
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    z-index: -2;
+}
+
+.custom-card .image::after {
+    content: '';
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    width: calc(100% - 1px);
+    height: calc(100% - 1px);
+    border-radius: 50%;
+    background: linear-gradient(90deg, #12121a, #030303);
+    box-shadow: 6px 6px 14px -6px #1176bc inset;
+    z-index: -1;
+}
+
+.custom-card .image>i {
+    font-size: 30px;
+    color: #1176bc;
+}
+
+@keyframes move {
+    0% {
+        transform: translate(-50%, -50%) rotate(55deg);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(415deg);
+    }
+}
+
+.teach-img {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/*challan css*/
+
+.challan-div {
+    width: 100%;
+    display: flex;
+    max-width: 1200px;
+    margin: 10px auto;
+    /* border:1px dotted #000; */
+    gap: 4px;
+}
+
+.challan-portion {
+    width: 100%;
+    display: inline-block;
+}
+
+.br-bottom {
+    border-bottom: 1px dotted #000;
+    margin-bottom: 12px;
+}
+
+.challan-portion {
+    border: 1px dotted #000;
+}
+
+.bank-name {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 20px 0px 8px 0px;
+    font-weight: 600;
+    font-family: poppins;
+}
+
+.c-logo img {
+    margin: 10px 0px;
+    width: 50%;
+    display: inline-block;
+}
+
+.ch-info span,
+.ch-info p {
+    margin: 0px;
+    font-size: 14px;
+    font-family: poppins;
+    color: #000;
+    font-weight: bold;
+}
+
+.ch-info p {
+    text-decoration: underline;
+}
+
+.candidate-data,
+.fee-data {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.candidate-data li,
+.fee-data li {
+    padding: 0px 16px;
+    font-size: 14px;
+    font-family: poppins;
+    color: #000;
+    display: flex;
+    width: 100%;
+    gap: 4px;
+}
+
+.candidate-data li span {
+    font-weight: 600;
+}
+
+.fee-data {
+    margin: 14px 0px;
+    gap: 12px;
+}
+
+.fee-data li {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.fee-tab {
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.fee-tab tr {
+    background-color: #fff;
+    border: 1px solid #000;
+    padding: .35em;
+}
+
+.fee-tab th,
+.fee-tab td {
+    padding: .625em;
+    border: 1px solid #000;
+    color: #000;
+}
+
+.fee-tab th {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.fee-tab td {
+    font-size: 14px;
+}
+
+.pay-recieved {
+    color: #000;
+    font-size: 16px;
+    display: inline-block;
+    width: 40%;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.str-line {
+    display: inline-block;
+    width: 60%;
+    border-bottom: 1px solid #000;
+}
+
+#mine-example_length,
+#mine-example_filter,
+.dataTables_length,
+.dataTables_filter {
+    padding: 16px 0px !important;
+}
+
+.pagination {
+    gap: 10px !important;
+    align-items: center !important;
+    margin: 20px 0px !important;
+}
+
+#mine-example_paginate .pagination .page-item a,
+.paginate_button a {
+    width: 40px !important;
+    height: 40px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 14px !important;
+}
+
+#mine-example_paginate .pagination .previous a,
+#mine-example_paginate .pagination .next a,
+.previous a,
+.next a {
+    background: #1176bc !important;
+    font-family: poppins !important;
+    font-size: 14px !important;
+    border-radius: 60px !important;
+    color: #fff !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+.dataTables_info,
+#mine-example_length label,
+#mine-example_filter label,
+.dataTables_length label,
+.dataTables_filter label,
+.dataTables_info {
+    font-size: 14px !important;
+    color: #000000 !important;
+    font-family: poppins !important;
+
+}
+
+@media screen and (max-width:768px) {
+    .student-ins-card::before {
+        width: 600px;
+        height: 600px;
+    }
+
+    .profile-img {
+        width: 280px;
+        height: 280px;
+    }
+
+    .student-data li {
+        font-size: 14px;
+    }
+
+    .student-data li span {
+        width: 30%;
+    }
+
+    .student-data li span i {
+        font-size: 12px !important;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .profile-img {
+        margin: 12px 0px;
+    }
+
+    .custom-card {
+        justify-content: space-evenly;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .institute-logo-div {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:360px) {
+    .std-data ul {
+        width: 90%;
+    }
+
+    .student-data li {
+        flex-direction: column;
+    }
+
+    .student-data li span {
+        width: 50%;
+    }
+
+    .custom-card .info .title {
+
+        font-size: 12px;
+
+    }
+
+    .custom-card .image {
+        min-width: 60px;
+        min-height: 60px;
+    }
+
+    .custom-card .image svg {
+        width: 30px;
+    }
+}

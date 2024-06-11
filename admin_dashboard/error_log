@@ -1,0 +1,70 @@
+[14-Oct-2023 10:41:37 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[14-Oct-2023 10:41:37 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[16-Oct-2023 07:22:31 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[16-Oct-2023 07:22:31 America/New_York] PHP Deprecated:  strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[16-Oct-2023 07:22:31 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[16-Oct-2023 08:52:56 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[16-Oct-2023 08:52:56 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[18-Oct-2023 05:59:27 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[18-Oct-2023 05:59:27 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[18-Oct-2023 09:06:09 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[18-Oct-2023 09:06:09 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[18-Oct-2023 09:13:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/preww/pixxel.prepwings.com/admin_dashboard/teacher_detail.php on line 193
+[18-Oct-2023 09:13:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/preww/pixxel.prepwings.com/admin_dashboard/teacher_detail.php on line 193
+[18-Oct-2023 09:13:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/preww/pixxel.prepwings.com/admin_dashboard/teacher_detail.php on line 193
+[18-Oct-2023 09:13:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/preww/pixxel.prepwings.com/admin_dashboard/teacher_detail.php on line 193
+[18-Oct-2023 09:13:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/preww/pixxel.prepwings.com/admin_dashboard/teacher_detail.php on line 193
+[18-Oct-2023 11:01:20 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[18-Oct-2023 11:01:20 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[18-Oct-2023 11:01:33 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[18-Oct-2023 11:01:33 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[19-Oct-2023 05:46:28 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[19-Oct-2023 05:46:28 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[19-Oct-2023 12:35:07 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[19-Oct-2023 12:35:07 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[20-Oct-2023 07:53:38 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[20-Oct-2023 07:53:38 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[20-Oct-2023 09:11:52 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[20-Oct-2023 09:11:52 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[20-Oct-2023 12:11:33 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[20-Oct-2023 12:11:33 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[21-Oct-2023 09:38:17 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[21-Oct-2023 09:38:17 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[21-Oct-2023 09:39:14 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[21-Oct-2023 09:39:14 America/New_York] PHP Deprecated:  strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[21-Oct-2023 09:39:14 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[21-Oct-2023 10:31:56 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[21-Oct-2023 10:31:56 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[23-Oct-2023 07:08:33 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[23-Oct-2023 07:08:33 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[23-Oct-2023 08:42:51 America/New_York] PHP Warning:  Undefined variable $teacher_sno in /home/preww/pixxel.prepwings.com/admin_dashboard/assigment.php on line 218
+[25-Oct-2023 10:51:18 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[25-Oct-2023 10:51:18 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[25-Oct-2023 10:51:26 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[25-Oct-2023 10:51:26 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[26-Oct-2023 10:40:18 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[26-Oct-2023 10:40:18 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[26-Oct-2023 10:50:09 America/New_York] PHP Warning:  Undefined variable $country_name in /home/preww/pixxel.prepwings.com/admin_dashboard/student_details.php on line 101
+[28-Oct-2023 06:00:40 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[28-Oct-2023 06:00:40 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[31-Oct-2023 04:36:14 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[31-Oct-2023 04:36:14 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[31-Oct-2023 09:20:50 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[31-Oct-2023 09:20:50 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[31-Oct-2023 12:41:25 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[31-Oct-2023 12:41:25 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[01-Nov-2023 06:02:29 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[01-Nov-2023 06:02:29 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[01-Nov-2023 06:44:21 America/New_York] PHP Warning:  Undefined variable $country_name in /home/preww/pixxel.prepwings.com/admin_dashboard/student_details.php on line 101
+[01-Nov-2023 07:33:55 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[01-Nov-2023 07:33:55 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[02-Nov-2023 04:15:09 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[02-Nov-2023 04:15:09 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[02-Nov-2023 05:03:24 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[02-Nov-2023 05:03:24 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[02-Nov-2023 05:03:35 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[02-Nov-2023 05:03:35 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[02-Nov-2023 05:03:48 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[02-Nov-2023 05:03:48 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33
+[03-Nov-2023 06:27:36 America/New_York] PHP Warning:  Undefined variable $user_name in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 29
+[03-Nov-2023 06:27:36 America/New_York] PHP Warning:  Undefined variable $admin_image in /home/preww/pixxel.prepwings.com/admin_dashboard/include/navbar.php on line 33

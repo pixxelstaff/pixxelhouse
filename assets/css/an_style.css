@@ -1,0 +1,1235 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    /* border:2px solid #ff0202; */
+}
+
+/* input{
+    border:2px solid #ff0202 !important;
+} */
+
+/*================================== profile and common table  page css starts ==================================*/
+
+
+.profile_div_01 {
+    background: url(../../images/up_bg.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+
+}
+
+.student_details_div {
+    padding: 0px 0px 0px 10px;
+}
+
+.p_sec {
+    border: 1px solid #cecece;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 6px;
+    border-radius: 4px;
+}
+
+.detail_head {
+    border-bottom: 2px solid #1176BC;
+}
+
+.data_div_01 {
+    width: 100%;
+    /* flex-wrap: wrap; */
+}
+
+.detail_head p,
+.data_div_01 p,
+.data_div_01 h6 {
+    font-size: 13px;
+    color: #3b3b3b;
+    margin: 0;
+    padding: 8px 0px;
+    font-weight: 600;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.data_div_01 h6 {
+    white-space: nowrap;
+}
+
+.detail_head a {
+    color: #131313;
+    font-size: 18px;
+    transition: 0.5s ease-in-out all;
+
+}
+
+.detail_head a:hover {
+
+    color: #1176BC;
+
+}
+
+.actual_data {
+    color: #8c8c8c !important;
+    margin: 0px 6px !important;
+    text-transform: unset !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+}
+
+.w-320 {
+    width: 320px !important;
+    height: 320px !important;
+}
+
+.w-280 {
+    width: 280px !important;
+    height: 280px !important;
+}
+
+
+/*page */
+
+
+/*edit profile page*/
+
+.e_p_inp {
+    border: 0px;
+    border-bottom: 1px dashed#000000;
+
+}
+
+
+/*fees and academic recoreds page*/
+.iph_pag_row1 {
+
+    align-items: center;
+    background: #1176BC;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+}
+
+/*fees page first row*/
+.std_name,
+.gen_msg {
+    color: #fff;
+    margin: 20px 0px;
+}
+
+.gen_msg {
+    font-size: 16px;
+}
+
+.en_btn {
+    color: #000000;
+    background: #fff;
+    padding: 10px;
+    border-radius: 60px;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid #1176BC;
+    transition: 0.5s ease-in-out all;
+}
+
+.en_btn:hover {
+    color: #fff;
+    background: 0;
+    border-color: #fff;
+}
+
+.iph_row_img_div img {
+    width: 80%;
+    display: inline-block;
+}
+
+
+/*table*/
+
+.gen_table_row {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px 10px;
+    margin: 25px 0px;
+}
+
+.gen_table_row h2 {
+    color: #1176BC;
+    font-size: 24px;
+    margin: 25px 0px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+}
+
+.gen_table_parent {
+    overflow: auto;
+
+}
+
+.my_cus_tab {
+    display: inline-block;
+    white-space: nowrap !important;
+    text-align: center;
+    margin: 10px 0px;
+    width:100%;
+}
+
+.my_cus_tab th,
+.my_cus_tab td {
+    padding: 16px;
+    width: 100%;
+}
+
+.my_cus_tab th {
+    background: #1176BC;
+    color: #fff;
+
+}
+
+.my_cus_tab td {
+    border: 0.5px solid #1176bc;
+
+}
+
+/*================================== common page css ends here ==================================*/
+
+
+/* academic table td,th*/
+
+
+/*================================== contact page css starts ==================================*/
+.w-60 {
+    width: 60% !important;
+}
+
+.std_contact_row2 {
+    margin: 50px 0px 20px 0px;
+}
+
+.std_p_contact_head {
+    color: #1176BC;
+    margin: 6px 0px;
+    font-weight: 700;
+}
+
+.h2_spacer {
+    width: 10%;
+    height: 4px;
+    background: #1176BC;
+    border-radius: 4px;
+    display: inline-block;
+    border-radius: 60px;
+    position: relative;
+    left: 10px;
+    margin: 5px 45% !important;
+}
+
+.h2_spacer::before {
+    content: "";
+    width: 4px;
+    height: 4px;
+    background: #1176BC;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: -20px;
+}
+
+.h2_spacer::after {
+    content: "";
+    width: 4px;
+    height: 4px;
+    background: #1176BC;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: -10px;
+}
+
+.std_con_inp {
+    /* all: unset; */
+    border: 1px solid #dddddd;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 16px;
+    width: 100%;
+    margin: 10px 0px 18px 0px;
+    font-size: 16px;
+    display: inline-block;
+    text-align: left;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+/* .con_txt_area {
+    border-radius: 4px !important;
+} */
+
+.std_con_sub_btn {
+    width: auto;
+    margin: 18px auto;
+    background: #0575e6;
+    color: #fff;
+    text-align: center;
+    padding: 16px 32px;
+    font-size: 18px;
+    transition: 0.5s ease-in-out all;
+}
+
+.std_con_sub_btn:hover {
+    background: 0;
+    color: #0575e6;
+}
+
+.query_label {
+    display: block;
+    font-size: 16px;
+    text-align: left;
+    margin-left: 8px;
+}
+
+
+/*conatct ends*/
+
+tbody,
+tfoot,
+thead,
+tr {
+
+    width: 100%;
+}
+
+/*================================== contact page css ends here ==================================*/
+
+/* ==================================== front page css ====================================== */
+
+.course_analytical_data {
+    border-radius: 6px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px solid #cecece;
+    padding: 10px;
+}
+
+.c_data_title {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #626262;
+
+}
+
+.c_data_title span {
+
+    display: inline-block;
+    margin-right: 10px;
+    color: #ffffff;
+    background: #1176bc;
+    border-radius: 6px;
+    padding: 6px;
+    font-size: 22px;
+    /* font-weight: 700; */
+
+}
+
+.c_data_num {
+    font-size: 42px;
+    font-weight: bold;
+    margin: 12px 0px;
+    display: inline-block;
+    border-bottom: 4px solid #1176bc;
+}
+
+.iph_blue {
+    background: #1176bc;
+}
+
+
+
+
+/*sub row 2 heading*/
+
+.front_page_head {
+    font-size: 18px;
+    color: #353535;
+    font-weight: 600;
+}
+
+.weekly_report_table {
+    width: 100%;
+}
+
+.weekly_report_table thead {
+    border-bottom: 1px solid #cecece;
+}
+
+.weekly_report_table th,
+.weekly_report_table td {
+    color: #9d9d9d;
+    font-size: 16px;
+    text-align: center;
+    padding: 12px;
+    white-space: nowrap;
+}
+
+.weekly_report_table td {
+    color: #0e0e0e;
+    padding: 20px 12px;
+}
+
+.assign_status {
+    padding: 5px;
+    font-size: 22px;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 22px;
+}
+
+.adv_course_div {
+    margin-top: 50px !important;
+    padding: 12px;
+    border: 1px solid #ebebeb;
+    border-radius: 6px;
+    position: relative;
+}
+
+.course_title {
+    color: #272728;
+    font-size: 18px;
+    margin: 10px 0px 0px 0px;
+    padding: 5px;
+    -webkit-line-clamp: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.course_slide img {
+    width: 100%;
+    display: inline-block;
+    border-radius: 6px;
+}
+
+.course_instractor {
+    padding: 5px;
+    font-size: 16px;
+    margin: 0px;
+    color: #8c8c8c;
+}
+
+.c_enroll_btn {
+    color: #fff;
+    background: #1176BC;
+    font-size: 14px;
+    padding: 8px 16px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 60px;
+    margin: 5px 0px 0px 2px;
+    transition: 0.5s ease-in-out all;
+    border: 2px solid #fff;
+}
+
+.c_enroll_btn:hover {
+
+    background: 0;
+    border-color: #1176BC;
+    color: #1176BC;
+
+}
+
+#courses_loop .owl-nav {
+    display: inline-block;
+    position: absolute;
+    top: -15%;
+    right: 0;
+}
+
+.std_front_profile_div {
+    background: url(../../images/up_bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}
+
+
+.side_profile_img_div {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    padding: 5px;
+    border: 4px solid #FB6440;
+    border-top-color: #dadada;
+    border-radius: 50%;
+    rotate: 55deg;
+
+}
+
+.side_profile_img_div img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    display: inline-block;
+    border-radius: 50%;
+    rotate: -55deg;
+    background: #fff;
+
+}
+
+.std_dash_name {
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    margin: 4px 0px;
+}
+
+.std_dash_email {
+    font-size: 16px;
+    color: #ffffff;
+    display: inline-block;
+    width: 100%;
+    margin: 5px 0px;
+    padding: 3px;
+    /* background: rgba(0, 0, 0, 0.5); */
+    border-radius: 3px;
+}
+
+.std_course_completion {
+    margin-bottom: 0px;
+    margin: 3px 0px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.std_profile_setting {
+    display: inline-block;
+    padding: 8px 12px;
+    font-size: 14px;
+    background: rgba(255, 255, 255, 0.4);
+    color: #fff;
+    border-radius: 4px;
+    margin-top: 6px;
+    border: 0px !important;
+}
+
+.std_profile_setting:hover {
+    color: #000000;
+}
+
+/*notice div*/
+
+.dash_imp_notice {
+    font-size: 22px;
+    color: #525252;
+    margin: 12px 0px 6px 0px;
+    text-transform: uppercase;
+    padding: 8px 0px;
+    border-bottom: 2px solid #1176BC;
+
+}
+
+.dash_imp_text {
+    color: #9d9d9d;
+    font-size: 16px;
+    text-align: justify;
+}
+
+/*new php*/
+
+.weekly_data:not(:first-child) {
+    border-top: 1px dashed #cecece;
+    margin-top: 25px;
+    padding-top: 35px;
+}
+
+/* ==================================== front page css ends here ====================================== */
+
+/*===================================== update profile css starts here================================*/
+
+
+.iph_dash_update {
+    width: 280px;
+    height: 280px;
+    display: inline-block;
+    background: #fff;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.iph_dash_update img {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.upload_btn_group {
+    rotate: -55deg;
+    display: flex;
+    gap: 5px;
+    position: absolute;
+    top: 37%;
+    right: -35%;
+    transform: translateY(-42px);
+    opacity: 0;
+    transition: 0.5s ease-in-out all;
+}
+
+.move_down_class {
+    transform: translateY(0px);
+    opacity: 1;
+}
+
+.upl_label,
+.remove_up_img,
+.btn_shower {
+    background: #000000;
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 4px 0px;
+}
+
+.remove_up_img {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.btn_shower {
+    background: #fff;
+    color: #000;
+    width: 50px;
+    height: 50px;
+    rotate: -55deg;
+    position: absolute;
+    top: 90%;
+    right: 0;
+    position: absolute;
+    top: 26%;
+    right: -34px;
+    z-index: +9;
+}
+
+
+/*==================================update profile css ends here=======================*/
+
+/*chart css*/
+
+/*================================== academic page starts here ==================================*/
+.main_academic_div {
+    width: 100%;
+    display: none;
+}
+
+.academic-div {
+    margin: 24px 0px;
+}
+
+.academic-sub-div {
+    border: 1px solid #dddddd;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 12px;
+    margin: 12px 0px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.academic_p {
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 10px 0px;
+    text-transform: uppercase;
+}
+
+.act-num {
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px 10px;
+    border-bottom: 4px solid #f7971e;
+}
+
+.a-main-col:nth-child(2) .act-num {
+    border-color: #10ffa3;
+}
+
+.a-main-col:nth-child(3) .act-num {
+    border-color: #021b79;
+}
+
+.a-main-col:nth-child(4) .act-num {
+    border-color: #ff106c;
+}
+
+.activity_chart {
+    border: 1px solid #F6F7F8;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.activity_chart_child {
+    flex-wrap: wrap;
+}
+
+/*circular bar*/
+
+.circular-progress {
+    position: relative;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background: conic-gradient(#1176BC 3.6deg, #ededed 0deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto;
+}
+
+.circular-progress::before {
+    content: "";
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.act-h6 {
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.act-p {
+    font-size: 14px;
+    margin: 0;
+    letter-spacing: 0.3px;
+}
+
+.progress-value {
+    position: relative;
+    font-size: 14px;
+    color: #1176BC;
+}
+
+/* button css*/
+
+.class_batch_row {
+    display: inline-block;
+    background: #fff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 16px;
+    border-radius: 60px;
+}
+
+.active_cl_btn {
+    background: #1176BC !important;
+    color: #fff !important;
+}
+
+.cl_btn {
+    all: unset;
+    padding: 12px 24px;
+    margin: 0px 5px;
+    border-radius: 60px;
+    font-size: 16px;
+    transition: 0.5s ease-in-out all;
+}
+
+
+/*================================== academic page ends here ==================================*/
+
+
+/*================================== fees page design ==================================*/
+
+.detail_section {
+    background: #ffffff;
+    padding: 20px 12px;
+    border-radius: 8px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: 0.5s ease-in-out all;
+}
+
+.detail_sec_label {
+    /* display: block; */
+    font-size: 14px;
+    transition: 0.5s ease-in-out all;
+}
+
+.detail_sec_p {
+    display: inline-block;
+    font-size: 16px;
+    color: #000;
+    transition: 0.5s ease-in-out all;
+    margin: 6px 0px;
+}
+
+/* img sec*/
+
+.detail_sec_img {
+    width: 70%;
+    display: inline-block;
+    padding: 12px;
+    border: 8px solid #1176BC;
+    border-radius: 8px;
+    transition: 0.5s ease-in-out all;
+}
+
+.detail_sec_img img {
+    width: 100%;
+    display: inline-block;
+    border-radius: 8px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+
+
+
+.detail_section:hover {
+    background: #1176BC;
+
+}
+
+.detail_section:hover .detail_sec_label,
+.detail_section:hover .detail_sec_p {
+    color: #fff;
+}
+
+.detail_section:hover .detail_sec_img {
+    border-color: #fff;
+}
+
+/*================================== courses.php page ==================================*/
+
+.course_des {
+    font-size: 16px;
+    margin: 10px 0px 5px 0px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    padding-left: 5px;
+}
+
+/*================================== single page course css ==================================*/
+
+.iph_course_feature_img {
+    width: 100%;
+    /* height: 400px;
+    aspect-ratio: 1/1; */
+    display: inline-block;
+    /* object-fit: cover; */
+    border-radius: 4px;
+}
+
+.single_course_title {
+    font-size: 30px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    margin: 30px 0px 10px 0px;
+    color: #000000;
+    font-weight: 700;
+}
+
+.single_page_p {
+    font-size: 16px;
+    color: #6a6a6a;
+    letter-spacing: 1px;
+    margin: 10px 0px 0px 0px;
+    word-spacing: 0.5px;
+    line-height: 30px;
+}
+
+.single_page_btn {
+    background: #1176BC;
+    color: #fff;
+    font-size: 18px;
+    padding: 15px 25px;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 15px 0px;
+    border: 2px solid #fff;
+    transition: 0.5s ease-in-out all;
+    cursor: pointer;
+}
+
+.single_page_btn:hover {
+    background: 0;
+    color: #1176BC;
+    border-color: #1176BC;
+}
+
+/*popup*/
+
+.confirm_popup_parent {
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.6);
+    display: none;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: +100;
+    transition: 0.6s ease-in-out all;
+    opacity: 0;
+}
+
+.child_popup_div {
+    width: 360px;
+    background: #fff;
+    border-radius: 4px;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    transform: translateY(-200%);
+    transition: 1s ease-in-out all;
+}
+
+.gif_div {
+    width: 100%;
+    display: inline-block;
+    margin: 10px 0px;
+    text-align: center;
+}
+
+.gif_div img {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+
+}
+
+.child_popup_div h4 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.child_popup_div p {
+    font-size: 14px;
+    padding: 5px 10%;
+    margin: 5px 0px;
+    letter-spacing: 1px;
+    word-spacing: 0.5px;
+    line-height: 25px;
+
+}
+
+.pop_btn_div button {
+    padding: 12px 24px;
+    background: #1176BC;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 60px;
+    border: 0;
+    outline: 0;
+    display: flex;
+    align-items: center;
+}
+
+.cancel_btn {
+    background: #ff0202 !important;
+}
+
+.pop_btn_div button span {
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+/*================================== courses single css ends here ==================================*/
+
+.upd_head {
+    color: #1176BC;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 16px 0px;
+}
+
+/*================================== preloader css ==================================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    z-index: +999;
+    background: #fff;
+    transition: 0.5s ease-in-out all;
+
+}
+
+.wrapper svg {
+    font-family: 'Great Vibes', cursive;
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper svg text {
+    animation: stroke 5s infinite alternate;
+    stroke-width: 2;
+    stroke: #208ADD;
+    font-size: 100px;
+    /* font-weight: 900; */
+}
+
+@keyframes stroke {
+    0% {
+        fill: rgba(32, 138, 221, 0);
+        stroke: rgba(32, 138, 221, 1);
+        stroke-dashoffset: 25%;
+        stroke-dasharray: 0 50%;
+        stroke-width: 2;
+    }
+
+    70% {
+        fill: rgba(32, 138, 221, 0);
+        stroke: rgba(32, 138, 221, 1);
+    }
+
+    80% {
+        fill: rgba(32, 138, 221, 0);
+        stroke: rgba(32, 138, 221, 1);
+        stroke-width: 3;
+    }
+
+    100% {
+        fill: rgba(32, 138, 221, 1);
+        stroke: rgba(32, 138, 221, 0);
+        stroke-dashoffset: -25%;
+        stroke-dasharray: 50% 0;
+        stroke-width: 0;
+    }
+}
+
+/*css */
+.att_style {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.att_p {
+    color: rgb(29, 172, 29);
+}
+
+.att_a {
+    color: red;
+}
+
+.att_l {
+    color: rgb(255, 214, 6);
+}
+
+.att_s {
+    color: #0b1e61;
+}
+
+/*marquee style css*/
+
+.marquee_parent {
+    background: rgb(255, 27, 27);
+    padding: 6px 0px;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+/*assignment page*/
+
+.view_assign{
+    all: unset;
+    background: #1176BC;
+    color: #fff;
+    font-size:16px;
+    padding:10px;
+    border-radius:4px;
+    cursor: pointer;
+}
+.view_assign i{
+    margin-right:5px;
+    font-size: 14px;;
+}
+
+.assignment_popup {
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    display: none;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: +999;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition:0.5s ease-in-out all;
+}
+
+.assignment_content {
+    background: #fff;
+    border-radius: 4px;
+    display: none;
+    width: 40%;
+    height: 400px;
+    padding: 16px;
+    overflow-y: auto;
+    position: relative;
+    transform: translateY(-200px);
+    opacity: 0;
+    transition:0.5s ease-in-out all;
+    
+}
+
+
+.assignment_content::-webkit-scrollbar {
+    width: 5px;
+    background: #cacaca;
+    color: #1176BC;
+}
+.assignment_content::-webkit-scrollbar-thumb {
+
+    background: #1176BC;
+    border-radius: 5px; 
+}
+
+.a_model_h2 {
+    font-size: 16px;
+    margin: 20px 0px;
+}
+
+.a_model_h2 span,.a_model_p span {
+    color: #1176BC;
+    font-weight:bold;
+}
+
+.a_model_p{
+    font-size:14px;
+    text-align: justify;
+    line-height:28px;
+}
+.c_assign_popup{
+    all:unset;
+    position: absolute;
+    top:8px;
+    right:8px;
+    color: #fff;
+    background: #1176BC;
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    text-align: center;
+
+}
+
+/*add-fees css*/
+
+.pag-head{
+    background: #1176bc;
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 10px 0px;
+    padding:12px 18px;
+    border-radius: 60px;
+    text-transform: uppercase;
+}
+.fee-form-div{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    gap: 6px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    padding: 12px;
+}
+.inp-fee-div{
+    display: flex;
+    flex-direction: column;
+    padding: 12px 0px;
+    gap: 10px;
+}
+.cs-label{
+    font-size: 14px;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+}
+.cs-inp-field{
+    font-size: 14px !important;
+    color: #000 !important;
+    font-family: 'Poppins', sans-serif !important;
+
+}
+.add-fee-btn{
+    all: unset;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: #fff;
+    line-height: 1.2;
+    text-transform: uppercase;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    width: 50%;
+    height: 50px;
+    background: #1176BC;
+    margin: 0px auto;
+    border-radius: 60px;
+    position: relative;
+    overflow: hidden;
+    z-index: +1;
+}
+.add-fee-btn::before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: -100%;
+    background: -webkit-linear-gradient(right, #1176bc,#000);
+    z-index: -1;
+    transition: 0.2s ease-out all;
+}
+.add-fee-btn:hover::before{
+    left: 0;
+}

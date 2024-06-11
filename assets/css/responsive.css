@@ -1,0 +1,164 @@
+/*360 css*/
+
+@media screen and (max-width:768px) {
+    .student_details_div {
+        padding: 0px !important;
+    }
+
+    .act_detail {
+        padding: 0px 14px;
+        text-align: center;
+    }
+
+    .student_details_div {
+        padding: 0;
+    }
+
+    .profile_img_div {
+        width: 100%;
+    }
+
+    .detail_sec_img {
+        width: 40%;
+    }
+    .assignment_content{
+        width:80%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .detail_sec_img {
+        width: 40%;
+    }
+    .assignment_content{
+        width:80%;
+    }
+    .wrapper svg text {
+        font-size:50px;
+    }
+
+}
+
+@media screen and (max-width:480px) {
+
+    .single_page_p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .child_popup_div {
+
+        width: 280px;
+    }
+
+    .child_popup_div p {
+        font-size: 12px;
+        padding: 5px 0%;
+    }
+
+    .pop_btn_div button {
+        padding: 8px 18px;
+    }
+}
+
+@media screen and (max-width:360px) {
+
+    .academic-div {
+        margin: 5px 0px;
+    }
+
+    .std_name {
+        font-size: 18px !important;
+        margin: 14px 0px;
+    }
+
+    .gen_msg {
+        font-size: 14px !important;
+        margin: 14px 0px;
+    }
+
+    .en_btn {
+        padding: 8px;
+        font-size: 12px;
+    }
+
+    .act-h6 {
+        font-size: 14px;
+    }
+
+    .act-p {
+        font-size: 12px;
+    }
+
+    .circular-progress {
+        height: 60px;
+        width: 60px;
+    }
+
+    .circular-progress::before {
+        height: 48px;
+        width: 48px;
+    }
+
+    .progress-value {
+        font-size: 10px;
+        font-weight: 700;
+    }
+
+    .class_batch_row {
+        padding: 10px;
+    }
+
+    .cl_btn {
+        padding: 9px 18px;
+        font-size: 14px;
+    }
+
+    .w-320,
+    .iph_dash_update,
+    .side_profile_img_div {
+        width: 200px !important;
+        height: 200px !important;
+    }
+
+    .w-280,
+    .iph_dash_update {
+        width: 160px !important;
+        height: 160px !important;
+    }
+
+    .btn_shower {
+        width: 35px;
+        height: 35px;
+    }
+
+    .upload_btn_group {
+        position: absolute;
+        top: 42%;
+        right: -60%;
+    }
+
+    .data_div_01 {
+        flex-wrap: wrap;
+    }
+
+    .actual_data {
+        width: 100%;
+        display: block;
+        margin: 0px !important;
+    }
+
+    .ail_sec_p {
+        font-size: 14px;
+    }
+}
+
+
+@media screen and (max-width:320px) {
+
+    .act_detail {
+        padding: 0px;
+    }
+
+
+}

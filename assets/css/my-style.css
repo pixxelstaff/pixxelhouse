@@ -1,0 +1,397 @@
+/* ================  dashboard celander ============ */
+.fc-day-today {
+  background-color: #1176bc !important;
+}
+
+.fc-day-today .fc-daygrid-day-number {
+  color: #fff !important;
+}
+
+/* ========================================================= */
+/* ================  table vertical align style ============ */
+.my-mr-1 {
+  margin-right: 10px !important;
+}
+
+.my-mr-1-half {
+  margin-right: 15px !important;
+}
+
+.my-mr-2-half {
+  margin-right: 25px !important;
+}
+
+.my-mr-2 {
+  margin-right: 20px !important;
+}
+
+.my-mr-3 {
+  margin-right: 30px !important;
+}
+
+.my-mr-4 {
+  margin-right: 40px !important;
+}
+
+.my-mr-5 {
+  margin-right: 50px !important;
+}
+
+/* ========================================================= */
+
+/* ================  table vertical align style ============ */
+.vertical-align-middle {
+  vertical-align: middle !important;
+}
+
+/* ================  border classes style ============ */
+.my-border-1 {
+  border: 1px solid !important;
+}
+
+.my-border-2 {
+  border: 2px solid !important;
+}
+
+.my-border-3 {
+  border: 3px solid !important;
+}
+
+.my-border-4 {
+  border: 4px solid !important;
+}
+
+.my-border-5 {
+  border: 5px solid !important;
+}
+
+.my-border-top-1 {
+  border-top-left-radius: 5px !important;
+  border-top-right-radius: 5px !important;
+  border-bottom-left-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+
+.my-border-bottom-1 {
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+  border-bottom-left-radius: 5px !important;
+  border-bottom-right-radius: 5px !important;
+}
+
+.my-border-primary-1 {
+  border: 1px solid #1176bc !important;
+}
+
+.my-border-primary-2 {
+  border: 2px solid #1176bc !important;
+  box-sizing: border-box !important;
+}
+
+.my-border-primary-3 {
+  border: 3px solid #1176bc !important;
+}
+
+.my-border-primary-4 {
+  border: 4px solid #1176bc !important;
+}
+
+.my-border-primary-5 {
+  border: 5px solid #1176bc !important;
+}
+
+/* ========================================== */
+
+/* ================  input select style ============ */
+
+input,
+select,
+textarea {
+  border: 1px solid #1176bc !important;
+}
+
+/* ========================================== */
+
+/* ================  radio style ============ */
+.custom-control-input-ph {
+  width: 25px;
+  height: 25px;
+  /* -moz-appearance: none; */
+}
+
+/* ========================================== */
+.text-bold-ph {
+  font-weight: 700;
+}
+
+.card-bottom-ph {
+  margin-bottom: 0px !important;
+}
+
+.card-shadow-ph {
+  box-shadow: 0px 0px 5px #6a6969;
+  border: 1px solid #1176bc !important;
+}
+
+.text-detail-student-ph {
+  font-size: 30px;
+}
+
+.text-stu-attain-ph {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.text-stu-assigment-ph {
+  font-weight: 700;
+  font-size: 18px;
+  color: #5a6a85;
+}
+
+/* ==================== password in add teacher icons ======================== */
+
+.sidebar-icon {
+  font-size: 22px;
+}
+
+.eye-icon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+
+.password-container {
+  position: relative;
+}
+
+#portal_password {
+  padding-right: 30px;
+}
+
+#portal_password.show-password {
+  padding-right: 10px;
+}
+
+/*========================= batch detail card  ===================== */
+.my-detail-card {
+  transition: all 0.7s;
+}
+
+.my-detail-card:hover {
+  background-color: #1176bc !important;
+}
+
+.my-detail-card:hover label {
+  color: #fff !important;
+}
+
+/*================================================================= */
+
+/*==========================   dashboard   ======================== */
+.dashboard-icon {
+  font-size: 40px;
+}
+
+.dashboard-card {
+  transition: all 0.7s;
+  cursor: pointer;
+}
+
+.dashboard-card:hover {
+  background-color: #1176bc;
+}
+
+.dashboard-card:hover .card-label {
+  color: #fff !important;
+}
+
+.card-label {
+  font-weight: 700;
+}
+
+/*================================================================= */
+
+.notification-parent {
+  position: relative;
+}
+
+.notification-div {
+  display: none;
+  width: 320px;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  padding: 10px;
+  background: #fff;
+  border-radius: 4px;
+  border: 1px solid #cfcece;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: auto;
+  max-height: 300px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  /* Firefox */
+  scrollbar-color: #1176bc transparent;
+  /* Firefox */
+
+  &::-webkit-scrollbar {
+    width: 6px;
+    /* Set the width of the scrollbar */
+
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: #1176bc;
+    /* Set the background color for the thumb */
+    scroll-margin-block: 4px;
+    border-radius: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: transparent;
+    /* Set the background color for the track */
+  }
+
+  /* Mozilla Firefox */
+  & {
+    scrollbar-width: thin;
+    scrollbar-color: #1176bc transparent;
+  }
+}
+
+.notification-row {
+  /* border-bottom: 1px dashed #000000; */
+  padding: 12px 0px;
+}
+
+.not-img img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: inline-block;
+  object-fit: cover;
+  aspect-ratio: 1/1;
+}
+
+.notification-data {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.notification-data a {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0px;
+  color: #191919;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.not-message {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.not-message p {
+  font-size: 14px;
+  margin: 0px;
+  width: 70%;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.not-message span {
+  font-size: 12px;
+  color: #7e7e7e;
+}
+
+.scale-up-circe {
+  animation: scale 2s ease-in-out infinite;
+  -webkit-animation: scale 2s ease-in-out infinite;
+  -moz-animation: scale 2s ease-in-out infinite;
+}
+
+@keyframes scale {
+
+  100% {
+    transform: scale(6.5);
+    opacity: 0;
+  }
+
+}
+
+
+@media screen and (max-width:360px) {
+  .notification-div {
+    display: none;
+    width: 260px;
+  }
+
+  .notification-data a,
+  .not-message p {
+    font-size: 12px;
+  }
+
+}
+
+
+.custom-table {
+    white-space: nowrap;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.custom-table thead {
+    border-collapse: collapse;
+}
+
+.custom-table thead,
+.custom-table tbody {
+    width: 100%;
+}
+
+.custom-table thead {
+    /* color: #3aff3a; */
+    background: #1176BC;
+}
+
+.custom-table th,
+.custom-table td {
+    padding: 16px;
+    color: #000;
+    font-size: 14px;
+    font-family: poppins;
+    font-weight: normal;
+}
+
+.f-16 {
+    font-size: 16px !important;
+}
+
+.custom-table th {
+    color: #fff;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+}
+
+.custom-table td {
+    border: 1px solid #eee;
+}
+
+.custom-table th:nth-child(1) {
+    border-left: 0px;
+}
+
+.custom-table th:last-child {
+    border-right: 0px;
+}

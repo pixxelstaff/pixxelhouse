@@ -1,0 +1,350 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.custom_container {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../images/form_bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.birthday-card {
+    display: inline-block;
+    width: 100%;
+    max-width: 750px;
+    height: 650px;
+    background: #0e76bc;
+    overflow: hidden;
+    position: relative;
+}
+
+.circle-div {
+    width: 800px;
+    height: 800px;
+    display: inline-block;
+    background: #fff;
+    border-radius: 50%;
+    padding: 10px;
+    position: absolute;
+    top: -21px;
+    left: -60%;
+    z-index: 1;
+}
+
+.circle-1,
+.circle-2 {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    background: #0000ff;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.circle-2 {
+    background: #fff;
+}
+
+.rect-bar {
+    width: 10px;
+    height: 220px;
+    background: #fff;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    transform: rotate(-45deg) translateX(-40%) translateY(-40%);
+}
+
+.image-div {
+    display: inline-block;
+    z-index: +1;
+    position: absolute;
+    bottom: 50px;
+    width: 45%;
+}
+
+.image-div img {
+    width: 100%;
+    display: inline-block;
+
+}
+
+.birthday-message-image {
+    display: inline-block;
+    position: absolute;
+    top: 35px;
+    right: 10%;
+    width: 45%;
+}
+
+.birthday-message-image img {
+    display: inline-block;
+    width: 100%;
+}
+
+.naming-div {
+    display: inline-block;
+    position: absolute;
+    top: 34%;
+    left: 46%;
+    z-index: 0;
+}
+
+.naming-div h4 {
+    color: #fff;
+    font-family: 'Lexend', sans-serif;
+    background: linear-gradient(to right, #000, transparent);
+    padding: 5px 0px 5px 22px;
+}
+
+.naming-div p {
+    font-size: 16px;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    padding: 5px 0px 5px 22px;
+
+
+}
+
+.birthday-message {
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 49%;
+}
+
+.birthday-message p {
+    margin: 0;
+    font-size: 18px;
+    color: #fff;
+    font-family: 'Lexend', sans-serif;
+    line-height: 26px;
+    font-weight: 600;
+    word-spacing: 3px;
+
+}
+
+/* content div at bottom */
+
+.content-div {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    z-index: +2;
+    background: #fff;
+    padding: 0px 10px;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.content-div>div:nth-child(1) {
+    width: 28%;
+}
+
+.content-div>div:nth-child(2) {
+    width: 28%;
+}
+
+.content-div>div:nth-child(3) {
+    width: 42%;
+}
+
+.post-logo-div {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.post-logo-div>img {
+    width: 60%;
+    display: inline-block;
+}
+
+.contact-div {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.contact-icon-div span {
+    font-size: 30px;
+    color: #0e76bc;
+}
+
+.contact-number-div,
+.info-div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.contact-number-div>p,
+.info-div>p {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.info-p {
+    display: flex;
+    gap: 14px;
+    font-size: 14px !important;
+    align-items: center;
+    color: #000000;
+}
+
+.info-p span {
+    font-size: 20px;
+}
+
+.info-p:nth-child(1) span {
+    color: #65a2d9;
+}
+
+.info-p:nth-child(2) span {
+    color: #ad3228;
+}
+
+/*act buttons*/
+
+.button_div {
+    position: fixed;
+    top: 80%;
+    right: 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: +10;
+}
+
+.act-btn {
+    color: #fff;
+    /* background: #0e76bc; */
+    background: linear-gradient(60deg, #62cff4, #2c67f2);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+
+
+/*media query for this*/
+
+@media screen and (max-width:640px) {
+
+    .circle-div {
+        width: 650px;
+        height: 650px;
+        top: 0px;
+        left: -60%;
+        z-index: 1;
+    }
+
+    .birthday-message-image {
+        right: 15%;
+    }
+
+}
+
+@media screen and (max-width:480px) {
+
+    .birthday-message-image {
+        right: 50%;
+        transform: translateX(50%);
+    }
+
+    .birthday-card {
+        height: 950px;
+    }
+
+    .naming-div {
+        top: 20%;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+    }
+
+    .birthday-message {
+        top: 31%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .birthday-message p {
+        text-align: center;
+    }
+
+    .circle-div {
+        top: 65%;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 580px;
+        height: 580px;
+    }
+
+    .image-div {
+        left: 50%;
+        bottom: 170px;
+        transform: translateX(-50%);
+        width: 55%;
+    }
+
+
+
+    .content-div {
+        min-height: 220px;
+        flex-direction: column;
+        padding: 20px 0px;
+        gap: 18px;
+        align-items: center;
+    }
+
+    .contact-div,
+    .info-div,
+    .post-logo-div>img {
+        width: 100% !important;
+    }
+
+    .contact-div {
+        justify-content: center;
+    }
+
+    .info-div p {
+        width: 100%;
+        justify-content: center;
+    }
+
+}
+
+@media screen and (max-width:360px){
+    .naming-div{
+        top: 17%;
+        width: 60%;
+    }
+    .naming-div h4,.naming-div p{
+        padding: 3px !important;
+    }
+    .image-div{
+        width: 75%;
+    }
+}

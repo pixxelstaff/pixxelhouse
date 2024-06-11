@@ -1,0 +1,9 @@
+<?php
+session_start();
+$log=$_GET['log'];
+if($log="logout"){
+    unset($_SESSION['teacher_login']);
+    unset($_SESSION['teacher_id']);
+header("Location:index.php");
+}
+?>
